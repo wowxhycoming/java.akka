@@ -1,15 +1,15 @@
-package e2statistics;
+package e3Statistics;
 
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
 import akka.actor.Props;
-import e2statistics.actor.MasterActor;
-import e2statistics.message.Result;
+import e3Statistics.actor.MasterActor;
+import e3Statistics.message.Result;
 
 /**
  * Created by xuhuaiyu on 2017/2/21.
  */
-public class Statistics {
+public class MainStatistics {
 
     public static void main(String[] args) throws InterruptedException {
         ActorSystem statisticsSystem = ActorSystem.create("statistics");

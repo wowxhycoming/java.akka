@@ -1,10 +1,10 @@
-package e2statistics.actor;
+package e3Statistics.actor;
 
 import akka.actor.ActorRef;
 import akka.actor.UntypedActor;
-import e2statistics.message.MapData;
-import e2statistics.message.ReduceData;
-import e2statistics.message.WordCount;
+import e3Statistics.message.MapData;
+import e3Statistics.message.ReduceData;
+import e3Statistics.message.WordCount;
 
 import java.util.HashMap;
 import java.util.List;

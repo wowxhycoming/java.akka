@@ -1,4 +1,4 @@
-package e2statistics.message;
+package e3Statistics.message;
 
 import java.util.List;
 

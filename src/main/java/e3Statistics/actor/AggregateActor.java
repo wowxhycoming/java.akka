@@ -1,8 +1,8 @@
-package e2statistics.actor;
+package e3Statistics.actor;
 
 import akka.actor.UntypedActor;
-import e2statistics.message.ReduceData;
-import e2statistics.message.Result;
+import e3Statistics.message.ReduceData;
+import e3Statistics.message.Result;
 
 import java.util.HashMap;
 import java.util.Map;

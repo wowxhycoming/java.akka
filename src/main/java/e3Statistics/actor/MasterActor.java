@@ -1,9 +1,9 @@
-package e2statistics.actor;
+package e3Statistics.actor;
 
 import akka.actor.ActorRef;
 import akka.actor.Props;
 import akka.actor.UntypedActor;
-import e2statistics.message.Result;
+import e3Statistics.message.Result;
 
 /**
  * Created by xuhuaiyu on 2017/2/21.
